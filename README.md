@@ -1,3 +1,7 @@
+# Dev Notes
+
+Just a quick note from me, this script was vibe coded using claude. I was losing hair trying to get this ssh-agent to work and couldn't for the life of me get a comprehensive guide anywhere. Took a few tweaks and had to do some troubleshooting but we got there in the end. Everything from this line below was written by the bot.
+
 # KeePassXC SSH Agent Setup for Arch Linux
 
 A simple interactive script to configure SSH agent integration with KeePassXC on Arch-based distributions (Arch, CachyOS, Manjaro, EndeavourOS, etc.).
@@ -31,7 +35,7 @@ This script automates all of that.
 
 ```bash
 # Download the script
-curl -O https://raw.githubusercontent.com/YOUR_USERNAME/keepassxc-ssh-setup/main/keepassxc-ssh-setup.sh
+curl -O https://raw.githubusercontent.com/nickbotr/keepassxc-ssh-setup/main/keepassxc-ssh-setup.sh
 
 # Make it executable
 chmod +x keepassxc-ssh-setup.sh
