@@ -35,7 +35,7 @@ This script automates all of that.
 
 ```bash
 # Download the script
-curl -O https://raw.githubusercontent.com/nickbotr/keepassxc-ssh-setup/main/keepassxc-ssh-setup.sh
+curl -O https://raw.githubusercontent.com/nickbotr/keepassxc-arch-ssh-agent-fix/main/keepassxc-ssh-setup.sh
 
 # Make it executable
 chmod +x keepassxc-ssh-setup.sh
